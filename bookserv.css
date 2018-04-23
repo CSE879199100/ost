@@ -1,0 +1,21 @@
+.html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+}
+
+body {
+      font-family: "Helvetica Neue",sans-serif;
+      font-weight: lighter;
+}
+
+.serv{
+	padding:40px;
+	margin:20px;
+}
+.img-holder {position: relative;}
+.img-holder .link {
+    position: absolute;
+    bottom: 10px; /*your button position*/
+    right: 10px; /*your button position*/
+}
